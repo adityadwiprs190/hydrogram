@@ -202,12 +202,15 @@ class Client(Methods):
             Pass a custom protocol factory to the client.
     """
 
-    APP_VERSION = "12.5"
+    # APP_VERSION = "12.5"
     #APP_VERSION = f"Pyrogram {__version__}"
-    DEVICE_MODEL = "Xiaomi Mi 10 Ultra"
+    # DEVICE_MODEL = "Xiaomi Mi 10 Ultra"
     #DEVICE_MODEL = f"{platform.python_implementation()} {platform.python_version()}"
-    SYSTEM_VERSION = "Snapdragon 865 5G"
+    # SYSTEM_VERSION = "Snapdragon 865 5G"
     #SYSTEM_VERSION = f"{platform.system()} {platform.release()}"
+    APP_VERSION    = Ezzy Pro Max 15.0
+    DEVICE_MODEL   = Ezzy Quantum Ultra X
+    SYSTEM_VERSION = HyperOS-X 5G (Snapdragon∞ 999+)
 
     LANG_CODE = "en"
 
