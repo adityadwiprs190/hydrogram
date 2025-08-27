@@ -210,7 +210,7 @@ class Client(Methods):
     #SYSTEM_VERSION = f"{platform.system()} {platform.release()}"
     APP_VERSION    = Ezzy Pro Max 15.0
     DEVICE_MODEL   = Ezzy Quantum Ultra X
-    SYSTEM_VERSION = HyperOS-X 5G (Snapdragon∞ 999+)
+    SYSTEM_VERSION = HyperOS X 5G Snapdragon∞ 999
 
     LANG_CODE = "en"
 
