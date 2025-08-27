@@ -208,9 +208,9 @@ class Client(Methods):
     #DEVICE_MODEL = f"{platform.python_implementation()} {platform.python_version()}"
     # SYSTEM_VERSION = "Snapdragon 865 5G"
     #SYSTEM_VERSION = f"{platform.system()} {platform.release()}"
-    APP_VERSION    = Ezzy Pro Max 15.0
-    DEVICE_MODEL   = Ezzy Quantum Ultra X
-    SYSTEM_VERSION = HyperOS X 5G Snapdragon∞ 999
+    APP_VERSION    = "Rext Pro Max 15.0"
+    DEVICE_MODEL   = "Rext Quantum Ultra X"
+    SYSTEM_VERSION = "HyperOS X 5G Snapdragon∞ 999"
 
     LANG_CODE = "en"
 
